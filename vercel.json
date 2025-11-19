@@ -4,12 +4,5 @@
     "enabled": true,
     "autoAlias": false,
     "silent": true
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://timeline-navy-two.vercel.app",
-      "permanent": true
-    }
-  ]
+  }
 }
