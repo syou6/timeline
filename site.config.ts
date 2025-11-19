@@ -1,14 +1,12 @@
 export default {
-  title: "catnose's timeline",
-  description: 'personal website by catnose.',
+  title: "LofiBoy's timeline",
+  description: 'personal website by LofiBoy.',
   siteRoot:
     process.env.NODE_ENV === 'production'
-      ? 'https://times.catnose99.com'
+      ? 'https://lofiboy.com'
       : 'http://localhost:3000',
   rssUrlList: [
-    'https://zenn.dev/catnose99/feed',
-    'https://catnose.medium.com/feed',
-    'https://note.com/catnose/rss',
-    'https://catknows.vercel.app/rss.xml',
+    'https://zenn.dev/boy6/feed',
+    'https://note.com/cool_bonobo254/rss',
   ],
 };

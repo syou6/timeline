@@ -67,8 +67,8 @@ const sheetHeaderValues = [
   // get urls that already exist on sheets
   const rows = await sheet.getRows();
   const existingUrls = rows
-    .map((r) => r.url.trim())
-    .filter((r): r is string => typeof r === 'string');
+    .map((r) => (typeof r.url === 'string' ? r.url.trim() : undefined))
+    .filter((r): r is string => typeof r === 'string' && r.length > 0);
 
   // get feed items from specified rss urls on site.config
   const feedItems = await getAllFeedItems();

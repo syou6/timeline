@@ -1,10 +1,11 @@
-# catnose99/timeline
+# LofiBoy timeline (fork of catnose99/timeline)
 
 [![deploy on vercel](https://github.com/catnose99/timeline/actions/workflows/deployment.yml/badge.svg?branch=main)](https://github.com/catnose99/timeline/actions/workflows/deployment.yml)
 
 ![screenshot](https://user-images.githubusercontent.com/34590683/110445555-959d5a80-8101-11eb-92f8-f9860bae4ac4.png)
 
-Personal website gathering my activities on the internet.
+Personal website gathering LofiBoy's activities on the internet. Forked from
+[catnose99/timeline](https://github.com/catnose99/timeline).
 
 ## Usage
 

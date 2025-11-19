@@ -5,13 +5,12 @@ export const HomeHero = () => {
   return (
     <div className={styles.container}>
       <img src="/icon.svg" alt="Hello" width={51} height={58} />
-      <h1 className={styles.title}>Hi, I'm catnose</h1>
+      <h1 className={styles.title}>Hi, I'm LofiBoy</h1>
       <p className={styles.description}>
-        Designer, developer, maker, dog &amp; cat lover. Currently working on{' '}
-        <a href="https://zenn.dev">zenn.dev</a> with{' '}
-        <a href="https://classmethod.jp">Classmethod</a>. Follow{' '}
-        <a href="https://twitter.com/catnose99">
-          @catnose99
+        Lo-fi beatmaker and indie developer sharing chill tunes and side projects.
+        Follow{' '}
+        <a href="https://x.com/K8292288065827">
+          @K8292288065827
           <TwitterIcon width={18} height={18} />
         </a>{' '}
         for daily updates.

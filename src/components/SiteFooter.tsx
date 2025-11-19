@@ -5,8 +5,8 @@ export const SiteFooter = () => {
   return (
     <ContentWrapper>
       <div className={styles.container}>
-        <a href="https://github.com/catnose99/timeline" className={styles.link}>
-          Source code is open on GitHub
+        <a href="https://github.com/syou6" className={styles.link}>
+          Follow the project on GitHub
         </a>
       </div>
     </ContentWrapper>
