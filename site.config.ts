@@ -3,7 +3,7 @@ export default {
   description: 'personal website by LofiBoy.',
   siteRoot:
     process.env.NODE_ENV === 'production'
-      ? 'https://lofiboy.com'
+      ? 'https://timeline-navy-two.vercel.app'
       : 'http://localhost:3000',
   rssUrlList: [
     'https://zenn.dev/boy6/feed',

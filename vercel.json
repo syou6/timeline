@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://lofiboy.com/timeline",
+      "destination": "https://timeline-navy-two.vercel.app",
       "permanent": true
     }
   ]
