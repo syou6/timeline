@@ -4,7 +4,7 @@ import { TwitterIcon } from './TwitterIcon';
 export const HomeHero = () => {
   return (
     <div className={styles.container}>
-      <img src="/icon.svg" alt="Hello" width={51} height={58} />
+      <img src="/icon.png" alt="Hello" width={58} height={58} />
       <h1 className={styles.title}>Hi, I'm LofiBoy</h1>
       <p className={styles.description}>
         Lo-fi beatmaker and indie developer sharing chill tunes and side projects.
